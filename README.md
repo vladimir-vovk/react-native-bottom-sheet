@@ -1,8 +1,8 @@
-# React Native Bottom Sheet
+# React Native Bottom Sheet 🗒
 
 An example of bottom sheet created with React Native Reanimated 2.
 
-<img src=".screen.gif" width="300"></img>
+<img src="./screen.gif" width="300"></img>
 
 ## Installation
 
